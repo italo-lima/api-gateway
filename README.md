@@ -2,7 +2,7 @@
 
 ## Projeto criaado com arquitetura de microserviços, utilizando S3, NestJS, Cognito e MongoDB
 
-## Este é o API Gateway do projeto. Responsável por realizar a comunicação com os outros microserviços. A lita de microserviços utilizados neste projeto segue abaixo.
+## Este é o API Gateway do projeto. Responsável por realizar a comunicação com os microserviços. A lita de microserviços utilizados neste projeto segue abaixo.
 
 :arrow_right: [Micro Admin](https://github.com/italo-lima/micro-admin-backend)
 
